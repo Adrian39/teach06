@@ -14,7 +14,7 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String TAG = "onLoad";
+    private static final String TAG = "loading";
     ProgressBar progressBar = new ProgressBar(this);
 
     @Override
